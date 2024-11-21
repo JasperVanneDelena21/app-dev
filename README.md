@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+**Emergence:**
+:The story follows the dramatic and unsettling transformation of a young girl named Saki. Initially an innocent, socially awkward high school student, Saki's life spirals out of control after a series of disturbing events that lead her into a dangerous world of exploitation and self-destruction. The manga explores dark themes of identity, loss of innocence, and the consequences of societal pressures. Known for its mature content and stark portrayal of psychological trauma, *Metamorphosis* is a deeply impactful, albeit controversial, work that pushes the boundaries of the medium.
